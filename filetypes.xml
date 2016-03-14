@@ -1,0 +1,29 @@
+<application>
+  <component name="CommunityFileTypes" version="8">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;" />
+    <extensionMap>
+      <mapping ext="jspx" type="XML" />
+      <mapping ext="pom" type="XML" />
+      <mapping ext="rng" type="XML" />
+      <mapping ext="tagx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="gv" type="Groovy" />
+      <mapping pattern="routes" type="PLAIN_TEXT" />
+      <mapping pattern="blah" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping ext="material" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="cabal" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="j3m" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="plugins" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
